@@ -29,7 +29,7 @@ Visual Studio 2022 (or later) with the necessary ASP.NET MVC development tools.
 Microsoft SQL Server Management Studio (SSMS) to manage the database.
 .NET Core SDK (version 3.1 or later).
 Setup
-Clone the Repository:git clone https://github.com/yourusername/AFJOB_WEB.git
+Clone the Repository:git clone (https://github.com/preet-bajwa06/AFJOB.git)
 Setup the Database:
 
 Open SSMS and create a new database (if not already created).
